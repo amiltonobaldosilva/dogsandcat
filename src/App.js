@@ -17,7 +17,7 @@ function App() {
   <ProductList />
 	    <footer className="bg-blue-500 text-white p-4 text-center mt-8">
     <div className="container mx-auto">
-      <p>&copy; 2025 Pet Shop Nutrientes - Todos os direitos reservados.</p>
+      <p>&copy; 2025 Pet Shop Nutrientes - Grupo Mercado Imenso.</p>
       <div className="flex justify-center space-x-4 mt-2">
         <a href="https://www.mercadoimenso.com.br" className="hover:underline">Política de Privacidade</a>
         <a href="https://www.mercadoimenso.com.br" className="hover:underline">Termos de Uso</a>
