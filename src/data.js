@@ -1,10 +1,11 @@
 // src/data.js
+import pet1 from './assets/pet1.jpg';
 export const products = [
   {
     id: 1,
     name: "Ração Premium para Cães",
     price: "R$ 120,00",
-    image: "/assets/pet1.jpg",
+    image: ".{pet1}.", //"assets/pet1.jpg",
     description: "Ração premium para cães de porte médio.",
   },
   {
