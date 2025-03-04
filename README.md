@@ -36,8 +36,4 @@ Este é um site desenvolvido em **React, HTML5 e CSS** para o **PetShop Nutrient
 ## 📝 Sobre o Projeto  
 O objetivo deste projeto é criar um site intuitivo e moderno para um pet shop, utilizando tecnologias atuais do desenvolvimento web. Sugestões e melhorias são bem-vindas!  
 
-📩 **Contato:** [mercadoimenso@gmail.com]  
-
----
-
-Se precisar de algo mais específico, me avise! 🚀
+📩 **Contato:** [mercadoimenso@gmail.com]
