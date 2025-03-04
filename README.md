@@ -1,40 +1,43 @@
-🐶 PetShop Nutrientes - Website
-Este é um site desenvolvido em React, HTML5 e CSS para o PetShop Nutrientes. O projeto faz parte da composição de notas do curso de Desenvolvimento Web e Mobile na EFG - Escola do Futuro de Goiás.
+# 🐶 PetShop Nutrientes - Website  
 
-📌 Funcionalidades
-✅ Página inicial com apresentação do pet shop
-✅ Catálogo de produtos e serviços
-✅ Formulário de contato para agendamentos
-✅ Layout responsivo para diferentes dispositivos
+Este é um site desenvolvido em **React, HTML5 e CSS** para o **PetShop Nutrientes**. O projeto faz parte da composição de notas do curso de **Desenvolvimento Web e Mobile** na **EFG - Escola do Futuro de Goiás**.  
 
-🛠️ Tecnologias Utilizadas
-React.js
-HTML5
-CSS3
-JavaScript
-Axios / Fetch API (caso tenha consumo de API)
-🚀 Como Executar
-Clone este repositório:
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/dogsandcat.git
-Acesse a pasta do projeto:
-bash
-Copiar
-Editar
-cd dogsandcat
-Instale as dependências:
-bash
-Copiar
-Editar
-npm install
-Inicie o servidor local:
-bash
-Copiar
-Editar
-npm start
-📝 Sobre o Projeto
-O objetivo deste projeto é criar um site intuitivo e moderno para um pet shop, utilizando tecnologias atuais do desenvolvimento web. Sugestões e melhorias são bem-vindas!
+## 📌 Funcionalidades  
+✅ Página inicial com apresentação do pet shop  
+✅ Catálogo de produtos e serviços  
+✅ Formulário de contato para agendamentos  
+✅ Layout responsivo para diferentes dispositivos  
 
-📩 Contato: mercadoimenso@gmail.com
+## 🛠️ Tecnologias Utilizadas  
+- React.js  
+- HTML5  
+- CSS3  
+- JavaScript  
+- Axios / Fetch API (caso tenha consumo de API)  
+
+## 🚀 Como Executar  
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
+2. Acesse a pasta do projeto:  
+   ```bash
+   cd petshop-nutrientes
+   ```
+3. Instale as dependências:  
+   ```bash
+   npm install
+   ```
+4. Inicie o servidor local:  
+   ```bash
+   npm start
+   ```
+
+## 📝 Sobre o Projeto  
+O objetivo deste projeto é criar um site intuitivo e moderno para um pet shop, utilizando tecnologias atuais do desenvolvimento web. Sugestões e melhorias são bem-vindas!  
+
+📩 **Contato:** [Seu e-mail ou LinkedIn]  
+
+---
+
+Se precisar de algo mais específico, me avise! 🚀
